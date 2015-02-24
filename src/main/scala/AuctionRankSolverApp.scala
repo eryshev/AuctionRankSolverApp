@@ -2,7 +2,7 @@
  * Created by eryshev-alexey on 2/23/15.
  * An simple auction second-price winner determiner app
  * first arg is reserve price
- * second arg is JSON file path relative depending on current directory
+ * second arg is JSON file path depending on current directory
  * that file consist of bids
  * {
   "A" : [110, 130],
